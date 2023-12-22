@@ -797,6 +797,10 @@ url = "https://github.com/omurovec/foundry-zksync-era"
 url = "https://github.com/onchaintrade/OT_V1"
 
 [[repo]]
+
+url = "https://github.com/ondefy/zyfi-paymaster"
+
+[[repo]]
 url = "https://github.com/ovnstable/ovnstable-core"
 
 [[repo]]
